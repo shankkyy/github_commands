@@ -25,6 +25,5 @@ git rebase
 git cherry-pick
 git mv <old> <new>
 git config
-git blame <file>
-git clean -fd
+
 git reflog
