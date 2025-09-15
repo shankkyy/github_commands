@@ -1,0 +1,30 @@
+Common Git Commands:
+
+git init
+git clone <repository>
+git status
+git add <file>
+git add .
+git commit -m "message"
+git push
+git pull
+git fetch
+git branch
+git branch <branch-name>
+git checkout <branch-name>
+git merge <branch-name>
+git log
+git diff
+git reset
+git rm <file>
+git stash
+git tag
+git remote -v
+git show
+git rebase
+git cherry-pick
+git mv <old> <new>
+git config
+git blame <file>
+git clean -fd
+git reflog
